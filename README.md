@@ -21,11 +21,11 @@ Load the stock dataset.
 Fit the model and then predict.
 
 ## PROGRAM
-
-```
 Program developed by : Shrruthilaya G
+
 Register number : 212221230097
 
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
